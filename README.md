@@ -117,5 +117,10 @@ pip install -r requirements.txt
 
 ---
 
+### Feature Importance
+![Scatter Plot](images/feature_importance.png)
+
+---
+
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
