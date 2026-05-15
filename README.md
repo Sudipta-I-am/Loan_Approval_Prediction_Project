@@ -74,19 +74,13 @@ Install required libraries:
 ```bash
 pip install -r requirements.txt
 ```
-## How to Run
+## Model Comparison
 
-...
-
-## Model Performance
-
-| Metric | Score |
+| Model | Accuracy |
 |---|---|
-| Accuracy | 91% |
-| Precision | 89% |
-| Recall | 90% |
-| F1-Score | 89% |
-
+| Logistic Regression | 86.75% |
+| Decision Tree | 99.00% |
+| Random Forest | 99.25% |
 ## Visualizations
 
 ## Visualizations
