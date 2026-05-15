@@ -73,3 +73,33 @@ Install required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+## Visualizations
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+---
+
+### Income vs Loan Amount
+![Scatter Plot](images/Income_vs_Loan_Amount.png)
+
+---
+
+### Loan Approval by Employment Status
+![Scatter Plot](images/Loan_Approval_by_Employment_Status.png)
+
+---
+
+### Loan Approval Distribution
+![Scatter Plot](images/Loan_Approval_Distribution.png)
+
+---
+
+### Loan Approval Distribution
+![Pie Chart](images/piechart.png)
+
+---
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
