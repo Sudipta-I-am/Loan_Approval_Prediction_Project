@@ -69,10 +69,34 @@ The project includes:
 
 ## How to Run
 
-Install required libraries:
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Sudipta-I-am/Loan_Approval_Prediction_Project.git
+```
+
+### 2. Open project folder
+
+```bash
+cd Loan_Approval_Prediction_Project
+```
+
+### 3. Install required libraries
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 4. Run Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Run prediction system
+
+```bash
+python prediction_system.py
 ```
 ## Model Comparison
 
