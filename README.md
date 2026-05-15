@@ -74,6 +74,21 @@ Install required libraries:
 ```bash
 pip install -r requirements.txt
 ```
+## How to Run
+
+...
+
+## Model Performance
+
+| Metric | Score |
+|---|---|
+| Accuracy | 91% |
+| Precision | 89% |
+| Recall | 90% |
+| F1-Score | 89% |
+
+## Visualizations
+
 ## Visualizations
 
 ### Loan Approval Distribution
