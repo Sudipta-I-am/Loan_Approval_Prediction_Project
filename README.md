@@ -76,13 +76,8 @@ pip install -r requirements.txt
 ```
 ## Visualizations
 
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
----
-
-### Income vs Loan Amount
-![Scatter Plot](images/Income_vs_Loan_Amount.png)
+### Loan Approval Distribution
+![Scatter Plot](images/Loan_Approval_Distribution.png)
 
 ---
 
@@ -91,10 +86,16 @@ pip install -r requirements.txt
 
 ---
 
-### Loan Approval Distribution
-![Scatter Plot](images/Loan_Approval_Distribution.png)
+### Income vs Loan Amount
+![Scatter Plot](images/Income_vs_Loan_Amount.png)
 
 ---
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+---
+
 
 ### Loan Approval Distribution
 ![Pie Chart](images/piechart.png)
